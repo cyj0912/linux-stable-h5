@@ -108,7 +108,7 @@
     };
 };
 
-&mdio {
+&external_mdio {
     ext_rgmii_phy: ethernet-phy@1 {
         reg = <0>;
     };
